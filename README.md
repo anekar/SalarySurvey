@@ -1,5 +1,9 @@
 Project Info
 =
+Languages
+=
+Libraries
+=
 Phases
 =
 Data Collection
