@@ -2,6 +2,7 @@ Project Info
 =
 Languages
 =
+R
 Libraries
 =
 Setup
