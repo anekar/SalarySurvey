@@ -4,6 +4,7 @@ Languages
 =
 R
 Libraries
+Tidyverse
 =
 Setup
 =
