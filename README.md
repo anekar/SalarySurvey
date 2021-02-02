@@ -16,6 +16,7 @@ Setup
 Phases
 =
 Phase 1 
+Phase 2 
 Data Collection
 = 
 Data Cleaning
