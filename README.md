@@ -22,6 +22,7 @@ Phase 3
 Phase 4 
 Data Collection
 = 
+The data have been collected by 
 Data Cleaning
 =
 Exploratory Data Analysis 
