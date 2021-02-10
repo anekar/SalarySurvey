@@ -1,6 +1,7 @@
 Project Info
 =
-This peoject is about
+This peoject is about investigating the salaries of IT guys
+
 Languages
 =
 R<br>
