@@ -4,7 +4,8 @@ This peoject is about investigating the salaries of IT guys
 
 Languages
 =
-R<br>
+The project was developed with R programming language
+<br>
 
 Libraries
 =
