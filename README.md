@@ -26,7 +26,7 @@ Phase 4
 
 Data Collection
 = 
-The data have been collected by Kaggle 
+The data have been collected by Kaggle platform
 Data Cleaning
 =
 Exploratory Data Analysis 
