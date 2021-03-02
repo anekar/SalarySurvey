@@ -31,4 +31,4 @@ Data Cleaning
 =
 Exploratory Data Analysis 
 =
-In order to 
+In order to explore
