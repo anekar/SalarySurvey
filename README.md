@@ -32,4 +32,4 @@ Data Cleaning
 =
 Exploratory Data Analysis 
 =
-In order to explore insights and 
+In order to explore insights and patterns 
