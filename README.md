@@ -15,7 +15,9 @@ The libraries that used in order to get this project done are the following
 <br>
 
 Data Visualization
-Microsoft Excel and Tableau
+1. Microsoft Excel 
+2.  Tableau
+
 Setup
 =
 First
