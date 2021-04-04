@@ -17,7 +17,7 @@ The libraries that used in order to get this project done are the following
 Data Visualization
 1. Microsoft Excel 
 2.  Tableau
-Power Bi
+3. Power Bi
 And
 
 Setup
