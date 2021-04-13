@@ -25,6 +25,7 @@ Setup
 First
 Phases
 Phase 1 
+Phase 2 
 =
 Phase 1 In the phase 1 
 Phase 2 
