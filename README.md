@@ -1,6 +1,6 @@
 Project Info
 =
-This peoject is about investigating the salaries of IT guys between 2018 and 2020
+This peoject is about investigating the salaries of IT guys between 2018 and 2020 from Kaggle platform.
 
 Languages
 =
