@@ -4,7 +4,7 @@ This peoject is about investigating the salaries of IT guys between 2018 and 202
 
 Languages
 =
-The project was developed with R programming language
+The project was developed with R programming language.
 <br>
 
 Libraries
