@@ -39,4 +39,4 @@ Data Cleaning
 =
 Exploratory Data Analysis 
 =
-In order to explore insights and patterns 
+In order to explore insights and patterns we need to explore the dataset
