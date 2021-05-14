@@ -11,7 +11,8 @@ Libraries
 The libraries that used in order to get this project done are the following 
 1. Tidyverse
 2. ggpplot
-3.dplyr
+3. dplyr
+4. tidyr
 <br>
 
 Data Visualization
