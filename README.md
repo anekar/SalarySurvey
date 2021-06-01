@@ -1,7 +1,7 @@
 Project Info
 =
-This project is about investigating the salaries of IT guys between 2018 and 2020 from Kaggle platform.
-Languages
+<p> This project is about investigating the salaries of IT guys between 2018 and 2020 from Kaggle platform.
+Languages <p>
 =
 The project was developed with R programming language.
 <br>
