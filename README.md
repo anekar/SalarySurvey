@@ -38,6 +38,7 @@ Data Collection
 The data have been collected by Kaggle platform and 
 Data Cleaning
 =
+
 Exploratory Data Analysis 
 =
 In order to explore insights and patterns we need to explore the dataset
