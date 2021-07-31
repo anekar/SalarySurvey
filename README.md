@@ -1,9 +1,14 @@
+Title
+=
+IT Salary for EU Regions 2018-2020 
+
 Project Info
 =
-<p> This project is about investigating the salaries of IT guys between 2018 and 2020 from Kaggle platform.
-Languages <p>
+This project is about investigating the salaries of IT guys between 2018 and 2020 from Kaggle platform.
 
-The project was developed with R programming language.
+Languages
+=
+* R programming language
 <br>
 
 Libraries
@@ -13,13 +18,14 @@ The libraries that used in order to get this project done are the following
 2. ggpplot
 3. dplyr
 4. tidyr
-<br>
+
 
 Data Visualization
+=
 The process has been achieved with 
-2.  Tableau
-3. Power Bi
-And
+1.  Tableau
+2. Power Bi
+3. MS Excel
 
 Setup
 =
