@@ -4,16 +4,16 @@ IT Salary for EU Regions 2018-2020
 
 Project Info
 =
-This project is about investigating the salaries of IT guys between 2018 and 2020 from Kaggle platform.
+An anonymous salary survey has been conducted annually since 2015 among European IT specialists with a stronger focus on Germany. This year 1238 respondents volunteered to participate in the survey. The data has been made publicly available by the authors.
+The dataset contains rich information about the salary patterns among the IT professionals in the EU region and offers some great insights.
 
 Languages
 =
-* R programming language
+**Project development with  R** 
 <br>
 
 Libraries
-=
-The libraries that used in order to get this project done are the following 
+= 
 1. Tidyverse
 2. ggpplot
 3. dplyr
@@ -21,30 +21,24 @@ The libraries that used in order to get this project done are the following
 
 
 Data Visualization
-=
-The process has been achieved with 
+= 
 1.  Tableau
 2. Power Bi
 3. MS Excel
 
-Setup
-=
-First
-Phases
-Phase 1 
-Phase 2 
-=
-Phase 1 In the phase 1 
-Phase 2 
-Phase 3 
-Phase 4 
+ 
 
 Data Collection
 = 
-The data have been collected by Kaggle platform and 
+The data have been collected by Kaggle platform.
+ 
 Data Cleaning
 =
+1. Modifying dates 
+2. Inserting variables 
+3. Detecting NA values 
+4. Handling outliers 
 
 Exploratory Data Analysis 
 =
-In order to explore insights and patterns we need to explore the dataset
+Creating Visuals with libraries in order to detect trends and generate useful KPIs. 
