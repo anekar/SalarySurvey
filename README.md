@@ -3,7 +3,7 @@ Project Info
 <p> This project is about investigating the salaries of IT guys between 2018 and 2020 from Kaggle platform.
 Languages <p>
 
-The project was developed with R programming language.
+The project was developed with R programming language in order to gain more knowledge.
 <br>
 
 Libraries
