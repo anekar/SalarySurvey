@@ -30,7 +30,7 @@ Data Visualization
 
 Data Collection
 = 
-The data have been collected by Kaggle platform.
+The data have been collected by Kaggle.
  
 Data Cleaning
 =
